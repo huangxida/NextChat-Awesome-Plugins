@@ -1,7 +1,7 @@
 {
   "openapi": "3.1.0",
   "info": {
-    "title": "CodeInterpreter-python",
+    "title": "python代码解释器",
     "version": "1.0.0"
   },
   "servers": [
